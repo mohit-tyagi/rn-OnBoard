@@ -29,8 +29,9 @@ yarn ios
 
 ## Output images
 
-![](outputImages/onboard1.png)
-![](outputImages/onboard2.png)
-![](outputImages/onboard3.png)
+<img src="outputImages/onboard.png" width="400" height="800">
+<img src="outputImages/onboard1.png" width="400" height="800">
+<img src="outputImages/onboard2.png" width="400" height="800">
+<img src="outputImages/onboard3.png" width="400" height="800">
 
 ### Happy coding
