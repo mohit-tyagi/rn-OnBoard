@@ -28,10 +28,15 @@ yarn ios
 ```
 
 ## Output images
+<div style="background-color: beige; display: flex; flex-wrap: wrap; justify-content: space-around" >
+<img style="padding: 30px" src="outputImages/onboard.png" width="400" height="800">
 
-<img src="outputImages/onboard.png" width="400" height="800">
-<img src="outputImages/onboard1.png" width="400" height="800">
-<img src="outputImages/onboard2.png" width="400" height="800">
-<img src="outputImages/onboard3.png" width="400" height="800">
+<img  style="padding: 30px" src="outputImages/onboard1.png" width="400" height="800">
+
+<img   style="padding: 30px" src="outputImages/onboard2.png" width="400" height="800">
+
+<img  style="padding: 30px" src="outputImages/onboard3.png" width="400" height="800">
+
+</div>
 
 ### Happy coding
